@@ -1,4 +1,4 @@
-# meetups
+# Vuejs Sample Website
 
 ## Project setup
 ```
